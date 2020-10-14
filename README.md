@@ -1,2 +1,3 @@
-# Sales-Analysis
-A real-world  application of data science analyzing sales📈 data of 12 months 📊..
+# Data Science Projects
+
+Very basic beginner data science projects using python data analysis libraries like pandas, numpy, matplotlib and seaborn.
