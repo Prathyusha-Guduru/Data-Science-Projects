@@ -1,4 +1,4 @@
 
 ## Demo :
 
-![Demo]('https://gph.is/g/aQwgw9R')
+![Demo]('https://github.com/Prathyusha-Guduru/Data/blob/master/World%20Power%20Consumption.gif')
